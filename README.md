@@ -2,6 +2,6 @@
  Primeiro repositório versionado
 
 
-Repositório criado durante aula.
+Repositório **criado** durante *aula*.
 
 Linha adicionada via Web.
